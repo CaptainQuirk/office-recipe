@@ -1,0 +1,3 @@
+apt "Install libreoffice"; do
+    package "libreoffice"
+done
